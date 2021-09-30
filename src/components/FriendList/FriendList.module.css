@@ -9,3 +9,7 @@
   border-radius: 8px;
   box-shadow: silver 1px 1px 1.5px 1.5px;
 }
+
+.item:hover {
+  box-shadow: silver 2px 2px 3px 3px;
+}
