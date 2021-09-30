@@ -1,0 +1,11 @@
+.item {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  width: 260px;
+  margin: 20px 40px;
+  padding: 10px 20px;
+  background-color: rgba(192, 192, 192, 0.2);
+  border-radius: 8px;
+  box-shadow: silver 1px 1px 1.5px 1.5px;
+}
